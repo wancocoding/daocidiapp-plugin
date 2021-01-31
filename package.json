@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/daocidi/daocidiapp-plugin.git"
+    "url": "git+https://github.com/wancocoding/daocidiapp-plugin.git"
   },
   "bugs": {
-    "url": "https://gitee.com/daocidi/daocidiapp-plugin/issues"
+    "url": "https://github.com/wancocoding/daocidiapp-plugin/issues"
   },
   "keywords": [
     "capacitor",
